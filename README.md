@@ -62,8 +62,8 @@ Tenho como objetivo me tornar uma profissional cada vez mais estratégica e reco
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gyovanna-eoliveira&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gyovanna-eoliveira&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gyovanna-eoliveira&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gyovanna-eoliveira&layout=compact&theme=dark"/>
 </div>
 
 <br />
