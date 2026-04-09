@@ -57,11 +57,13 @@ Tenho como objetivo me tornar uma profissional cada vez mais estratégica e reco
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/gyovanna-emily-oliveira-a50b01278
 
+<br />
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gyovanna-eoliveira&show_icons=true&theme=tokyonight&count_private=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyovanna-eoliveira&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gyovanna-eoliveira&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gyovanna-eoliveira&layout=compact&theme=radical"/>
+</div>
 
----
+<br />
